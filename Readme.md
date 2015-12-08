@@ -1,3 +1,3 @@
 # My Git Intro Project
 
-#### Yep, it's pretty cool
+#### In my very first HTML / CSS project, I designed a schedule for SEC football.
